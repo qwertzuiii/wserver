@@ -1,0 +1,9 @@
+{
+    "$name": "WServer",
+    "$creator": "dream4sy",
+    "$status": 1,
+
+    "pages": {
+        "test.html": [1]
+    }
+}
