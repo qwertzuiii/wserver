@@ -4,6 +4,7 @@
     "$status": 1,
 
     "pages": {
-        "test.html": [1]
+        "test.html": [1],
+        "PlutoniumEasyInstaller": [1]
     }
 }
