@@ -12,5 +12,5 @@
             ]
         }
     },
-    "blockedInstall": true
+    "blockedInstall": false
 }
