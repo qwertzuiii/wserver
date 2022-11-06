@@ -2,7 +2,15 @@
     "files": {
         "mods": "aHR0cHM6Ly93d3cuZ29vZ2xlYXBpcy5jb20vZHJpdmUvdjMvZmlsZXMvMW1HWGFlNEUxUFlyMV9qdF9mdjI3ZDNwNkNyX0JrcWMwP2FsdD1tZWRpYSZrZXk9QUl6YVN5QWVKSzUxSE5acXU4VkZlejFHN2hPQmtSNjhFOUlUV1dV",
         "s_dat":"aHR0cHM6Ly93d3cuZ29vZ2xlYXBpcy5jb20vZHJpdmUvdjMvZmlsZXMvMTNMa3lfbXU4THRsNHJfYXVEODZuTWx4WGdXRnFYbGM3P2FsdD1tZWRpYSZrZXk9QUl6YVN5QWVKSzUxSE5acXU4VkZlejFHN2hPQmtSNjhFOUlUV1dV",
-        "forge":"aHR0cHM6Ly93d3cuZ29vZ2xlYXBpcy5jb20vZHJpdmUvdjMvZmlsZXMvMWdoOTQ5Sldwc1p5eWpJWDNQLW83VVptdTVSMXlQbmNzP2FsdD1tZWRpYSZrZXk9QUl6YVN5QWVKSzUxSE5acXU4VkZlejFHN2hPQmtSNjhFOUlUV1dVJnY9LnppcA=="
+        "forge":"aHR0cHM6Ly93d3cuZ29vZ2xlYXBpcy5jb20vZHJpdmUvdjMvZmlsZXMvMWdoOTQ5Sldwc1p5eWpJWDNQLW83VVptdTVSMXlQbmNzP2FsdD1tZWRpYSZrZXk9QUl6YVN5QWVKSzUxSE5acXU4VkZlejFHN2hPQmtSNjhFOUlUV1dVJnY9LnppcA==",
+        "optifine": {
+            "mod": "aHR0cHM6Ly93d3cuZ29vZ2xlYXBpcy5jb20vZHJpdmUvdjMvZmlsZXMvMTVzRjFxcm95b1RvSzlrVE9vMXRKNFVTLU9mcUJsdGdjP2FsdD1tZWRpYSZrZXk9QUl6YVN5QWVKSzUxSE5acXU4VkZlejFHN2hPQmtSNjhFOUlUV1dVJnY9LnppcA==",
+            "shaders": [
+                "aHR0cHM6Ly9zdG5nby5naXRodWIuaW8vd3NlcnZlci9jZG4vbWluZWNyYWZ0L3NoYWRlcnMvU2lsZHVyc1ZpYnJhbnRTaGFkZXJzTGl0ZS56aXA=",
+                "aHR0cHM6Ly9zdG5nby5naXRodWIuaW8vd3NlcnZlci9jZG4vbWluZWNyYWZ0L3NoYWRlcnMvU2lsZHVyc1ZpYnJhbnRTaGFkZXJzTWVkaXVtLnppcA==",
+                "aHR0cHM6Ly9zdG5nby5naXRodWIuaW8vd3NlcnZlci9jZG4vbWluZWNyYWZ0L3NoYWRlcnMvU2lsZHVyc1ZpYnJhbnRTaGFkZXJzTGl0ZS56aXA="
+            ]
+        }
     },
     "blockedInstall": true
 }
